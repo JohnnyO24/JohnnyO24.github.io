@@ -1,0 +1,40 @@
+header {
+  color: #F6F9ED;
+  background-color: #4F4F4F;
+  text-align: center;
+  width:1400px;
+  font-size: 30px;
+  display: block;
+}
+body {
+  color: red;
+  background-color: #eeeeee;
+  border-left-width: 400px;
+  width: 1400px;
+  height: 400px;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+nav{
+
+  background-color: #4F4F4F;
+  text-align: left;
+  font-size: 18px;
+  width: 150px;
+  height: 500px;
+}
+
+a {
+  text-align: left;
+
+}
+img {
+
+    display: block;
+    margin: auto;
+    width: 100%;
+
+}
